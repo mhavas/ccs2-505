@@ -1,4 +1,7 @@
 ccs2-505-L01
 ============
 
-Code repository for code in Lecture 1 
+This is a code repository for lecture 1 of McGill University's CCS2-505 Application Programming Course.
+
+*Area.java* is for a demonstration
+*Calculator.java* should be improved
